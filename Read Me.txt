@@ -1,0 +1,39 @@
+Dear Reader,
+
+Our Team wanted to take a moment to express sincere gratitude for the opportunity to work with you on this project. Your feedback and collaboration throughout the development process have been invaluable, and We are proud of what we were able to accomplish together.
+
+Thank you for entrusting us with this project and for your ongoing support and encouragement. We hope this system proves to be a valuable tool for your organization and that it helps you achieve your goals.
+
+If you have any questions or concerns, please don't hesitate to reach out to Project Manager <Ms. Rucha>. It's been a pleasure working with you, and We hope we have the opportunity to work together again in the future.
+
+Now, here are the instructions for running the Online Voting System For Wing Commander Project:
+
+To run the Online Voting System For Wing Commander , you need to have a virtual server installed on your computer. We recommend using XAMPP for this purpose. The source code for the system is available for free download, but we advise that you use it for educational purposes only.
+
+Once you have XAMPP running, follow these steps:
+
+1. Extract the downloaded file.
+2. Copy the main project folder.
+3. Paste the folder in the 'htdocs' directory of XAMPP.
+4. Next, you need to connect to the database:
+
+Open your web browser and go to the URL "http://localhost/phpmyadmin/".
+5. Click on the 'databases' tab.
+6. Create a database named "votesystem" and click on the 'import' tab.
+7. Click on the 'browse' button and select the "votesystem.sql" file located in the 'db' folder.
+8. Click on the 'Go' button.
+9. Once the database is created, you can now run the system:
+
+10. Open your web browser and go to the URL "http://localhost/PRE86 Voting System for Wing Commander/Voting_System_GWRPL".
+11. To access the system as an admin, use the following credentials:
+
+ID: grwpl
+Password: password
+Admin URL: "http://localhost/PRE86 Voting System for Wing Commander/Voting_System_GWRPL/admin"
+
+Please note that this project was prepared by Ms. Rucha in collaboration with Brand. The project ID is PRE86 with the name Online Voting System For Wing Commander and the client's name is Rutuja Kaspate.
+
+Thank you for using our Placement On One Click, and we hope it meets your expectations.
+
+Best regards,
+Ms. Rucha
